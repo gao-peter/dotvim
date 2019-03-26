@@ -1,5 +1,6 @@
-APIs connecting to odoo
+auto chat robot
 
-taobao.com
-pinduoduo.com
-jd.com
+auto reply to web chatting with pinduoduo.com buyers.
+
+1. listening buyer talking update
+2. auto reply
