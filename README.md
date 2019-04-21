@@ -1,8 +1,5 @@
 # robot system
 
-
-gao.peter@qq.com
-
 Update:
 2019-03-26 
 
