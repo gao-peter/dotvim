@@ -1,6 +1,5 @@
-auto chat robot
+ robot system
 
-Auto reply to web chatting with pinduoduo.com buyers.
 
 gao.peter@qq.com
 
@@ -14,3 +13,5 @@ functions:
 OS envirnment:
 win7(x64)
 chrome73.0.3683.86(x64)
+
+
