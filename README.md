@@ -1,4 +1,6 @@
-# robot system
+#Lili is a AI robot assistance system
+Core technology with machine learning and NLP.
+
 
 Update:
 2019-03-26 
@@ -7,9 +9,5 @@ Update:
 1. listening buyer talking update
 2. auto reply
 
-## OS envirnment:
-win7(x64)
-chrome73.0.3683.86(x64)
 
-..............
 
