@@ -1,9 +1,7 @@
 #Lili is a AI robot assistance system
-Core technology with machine learning and NLP.
-
-
-Update:
-2019-03-26 
+## Core technology 
+1. machine learning 
+2. NLP.
 
 ## functions:
 1. work aide
